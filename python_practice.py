@@ -137,7 +137,7 @@
 # message_to_candidate = (
 #     f'You received {candidate_votes:,} number of votes.'
 #     f'The total number of votes in the election was {total_votes:,}.'
-#     f'You received {candidate_votes / total_votes * 100:.2f}% of the total votes.'
+#     f'You received {candidate_votes / total_votes * 100:.2f}s% of the total votes.'
 # )
 # print(message_to_candidate)
 
@@ -154,6 +154,9 @@
 # ###### dir() inbuilt fx that returns list of attributes and methods of any object
 # counties_dict = {'Arapahoe':422829, 'Denver':463353, 'Jefferson': 432438}
 # dir(counties_dict)
+
+
+
 
 
 
